@@ -1,0 +1,25 @@
+claude.md files 
+# CLAUDE.md
+
+## Project Overview
+
+Command Center is a WhatsApp conversation management platform built with NestJS (backend) and React (frontend) using Nx monorepo structure. It manages conversations with AI assistance, travel booking, file analysis, currency conversion, and Notion integration.
+
+## Architecture
+
+- `apps/api/` - NestJS backend (MongoDB, Mongoose, JWT auth)
+- `apps/frontend/` - React 18 frontend (Material-UI, Tailwind CSS)
+- `docs/` - Documentation and setup guides
+- `.claude/agents/` - Custom Claude Code agents
+
+**Key tech**: OpenAI/Gemini/Claude (multi-AI with failover), Twilio + WasenderAPI (WhatsApp), Pusher + Socket.io (real-time), AWS S3 (storage), Notion API, OneSignal (push notifications), BullMQ (jobs)
+
+## Development Commands
+
+```bash
+npm run dev:both        # Start both frontend and API
+npm run dev             # Frontend only (port 4200)
+npm run dev:api         # API only (port 3001)
+npx nx build api        # Build API
+npx nx build frontend   # Build frontend
+```
