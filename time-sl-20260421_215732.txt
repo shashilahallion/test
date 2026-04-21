@@ -1,0 +1,4 @@
+Sri Lanka Current Timestamp
+============================
+Date & Time : 2026-04-21 21:57:32 +0530 (IST - India Standard Time / Sri Lanka Time)
+Timezone    : Asia/Colombo (UTC+5:30)
