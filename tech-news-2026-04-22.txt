@@ -1,0 +1,166 @@
+================================================================================
+                        LATEST TECH NEWS DIGEST
+                        Date: April 22, 2026
+                        Fetched by: Tech News Agent
+================================================================================
+
+--------------------------------------------------------------------------------
+1. AI MODEL RELEASES & BREAKTHROUGHS
+--------------------------------------------------------------------------------
+
+[OpenAI — GPT-5.4]
+OpenAI released GPT-5.4 on March 5, 2026. It is a single unified model that
+credibly leads across coding, computer use, reasoning, and knowledge work
+simultaneously. The model scored 83.0% on the GDPVal benchmark — at or above
+the level of human experts on economically valuable tasks. GPT-5.4 "Thinking"
+variant pushes performance further on complex multi-step problems.
+
+[Anthropic — Claude Mythos 5]
+Anthropic confirmed Claude Mythos 5 in early April 2026. It is the first AI
+model to cross the 10-trillion-parameter threshold, using a Mixture of Experts
+(MoE) architecture where only ~800B–1.2T parameters are active per forward pass.
+Designed for high-stakes environments: cybersecurity, academic research, and
+complex coding. Unlike prior releases, Mythos 5 will NOT be made publicly
+available nor offered via standard API.
+
+[Google DeepMind — Gemini 3.1 + TurboQuant]
+Google DeepMind's Gemini 3.1 adds real-time voice and image analysis. Separately,
+Google's research team unveiled TurboQuant at ICLR 2026 — an algorithm that
+slashes AI memory overhead by 6× using PolarQuant vector rotation and Quantized
+Johnson-Lindenstrauss (QJL) compression, dramatically lowering inference costs.
+
+[AI Market Landscape — PwC Study]
+PwC's 2026 AI Performance Study found that just 20% of companies are capturing
+75% of AI's economic gains. Anthropic leads overall model performance rankings,
+followed closely by xAI, Google, and OpenAI.
+
+Source: https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html
+Source: https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/
+Source: https://www.devflokers.com/blog/ai-news-last-24-hours-april-2026-model-releases-breakthroughs
+
+--------------------------------------------------------------------------------
+2. MAJOR CORPORATE & LEADERSHIP NEWS
+--------------------------------------------------------------------------------
+
+[Apple — New CEO]
+Apple has tapped John Ternus as its next CEO, replacing Tim Cook, who will
+transition to Executive Chairman.
+
+[OpenAI — Revenue & IPO]
+OpenAI has surpassed $25 billion in annualized revenue and is taking early steps
+toward a public listing, potentially as soon as late 2026.
+
+[Snap — Mass Layoffs Driven by AI]
+Snap CEO Evan Spiegel announced the elimination of approximately 1,000 roles
+(~16% of workforce). AI now generates more than 65% of Snap's new code, reducing
+the need for large engineering teams.
+
+[Novo Nordisk + OpenAI Partnership]
+Danish pharmaceutical giant Novo Nordisk announced a strategic partnership with
+OpenAI to integrate AI across drug discovery, clinical trials, manufacturing,
+supply chains, and commercial operations — targeting new obesity and diabetes
+treatments.
+
+Source: https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-new-gopro-cameras-to-the-most-beautiful-phone-of-2026
+Source: https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/
+
+--------------------------------------------------------------------------------
+3. AI ADOPTION & SOCIETAL IMPACT
+--------------------------------------------------------------------------------
+
+- 88% of organizations worldwide now use AI in some capacity.
+- More than half of the global population actively uses AI tools — within just
+  3 years of AI going mainstream.
+- 4 in 5 university students use AI regularly in their studies.
+- AI-powered car features now include Apple CarPlay integration with ChatGPT
+  for voice-based interaction (audio-first due to CarPlay's visual restrictions).
+
+Source: https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/
+Source: https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report
+
+--------------------------------------------------------------------------------
+4. CYBERSECURITY NEWS & STARTUP FUNDING
+--------------------------------------------------------------------------------
+
+[Record Q1 Funding]
+Global startup funding hit $297 billion in Q1 2026, boosted by OpenAI's
+$122 billion round. Cybersecurity-specific funding reached $4.9 billion in Q1,
+with 80% of cybersecurity funding going to AI-integrated security companies.
+
+[Notable Cybersecurity Deals]
+- Artemis raised $70M (Series A) — stealth AI cybersecurity startup using AI to
+  fight AI-powered attacks.
+  Source: https://fortune.com/2026/04/15/exclusive-artemis-raises-70m-to-help-fight-ai-powered-attacks-with-ai/
+- Cloaked raised $375M (Series B) — consumer privacy startup; largest single
+  cybersecurity recipient in Q1 2026.
+- Linx Security raised $50M (Series B) — AI-powered identity security platform,
+  total funding now ~$83M.
+- CrowdStrike acquired SGNL (identity access management) for a reported $740M.
+
+[Anthropic AI Cybersecurity Project]
+The U.S. Treasury is seeking access to Anthropic's Claude Mythos 5 model to
+study potential security vulnerabilities it may be capable of exploiting.
+Separately, Anthropic launched a dedicated cybersecurity project in partnership
+with major tech companies.
+
+Source: https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/
+Source: https://www.insurancejournal.com/news/national/2026/04/09/865062.htm
+
+--------------------------------------------------------------------------------
+5. HARDWARE, SPACE & EMERGING TECH
+--------------------------------------------------------------------------------
+
+[Blue Origin — New Glenn]
+Blue Origin's New Glenn rocket completed its third successful launch on April 19,
+2026, from Cape Canaveral — and for the first time successfully reused a
+first-stage booster, a key milestone for lowering launch costs.
+
+[Self-Driving — Wayve]
+British autonomous driving startup Wayve raised $60 million from Qualcomm, AMD,
+and Arm to accelerate its mapless AI approach to autonomous vehicles, which
+doesn't rely on pre-built HD maps.
+
+[Smartphones]
+The Oppo Find X9 Ultra launched with twin 200MP cameras and 10× optical zoom,
+generating buzz as a leading camera phone of 2026.
+
+[Microsoft Japan Investment]
+Microsoft announced a 4-year, $10 billion investment in Japan (2026–2029),
+covering AI data center expansion (partnering with SoftBank and Sakura Internet),
+deep cybersecurity cooperation with the Japanese government, and a pledge to
+train 1 million+ engineers and developers by 2030.
+
+[Enterprise AI Infrastructure]
+GTC 2026 (NVIDIA's developer conference) was dominated by agentic AI frameworks,
+with NeMoCLAW and OpenCLAW orchestration tools drawing the largest audiences.
+
+Source: https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/
+Source: https://www.styletech.net/post/top-news-in-tech-april-2026
+
+--------------------------------------------------------------------------------
+6. RESEARCH & SCIENCE
+--------------------------------------------------------------------------------
+
+[MIT Technology Review — AI State 2026]
+MIT Technology Review's April 2026 analysis highlights that AI is rapidly
+shifting from productivity tool to full economic engine, with benchmark scores
+on complex reasoning and knowledge tasks now exceeding average human performance.
+
+[Stanford HAI — 2026 AI Index]
+The Stanford 2026 AI Index reports 12 major takeaways, including accelerating
+model capabilities, growing government AI regulation activity, and widening
+inequality in AI access across developed vs. developing nations.
+
+[Materials Science]
+Scientists at Loughborough University developed a rapid method to uncover hidden
+structures in materials by resolving complex phase diagrams in soft matter
+systems — with implications for drug delivery, smart materials, and coatings.
+
+Source: https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/
+Source: https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report
+Source: https://www.lboro.ac.uk/news-events/news/2026/april/complex-phase-diagrams-soft-matter-systems/
+
+================================================================================
+END OF DIGEST — Sources: TechCrunch, TechStartups, MIT Technology Review,
+PwC, Stanford HAI, Crunchbase, Fortune, TechRadar, devFlokers, Kersai, CNBC
+================================================================================
