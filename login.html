@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+
+    <div class="login-card">
+
+      <!-- Brand / logo placeholder -->
+      <svg class="login-card__logo" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="48" height="48" rx="12" fill="#4f46e5"/>
+        <path d="M14 24C14 18.477 18.477 14 24 14s10 4.477 10 10-4.477 10-10 10-10-4.477-10-10Z" fill="#fff" fill-opacity=".25"/>
+        <path d="M24 19a5 5 0 1 1 0 10A5 5 0 0 1 24 19Z" fill="#fff"/>
+      </svg>
+
+      <h1 class="login-card__title">Welcome back</h1>
+      <p class="login-card__subtitle">Sign in to your account to continue</p>
+
+      <form action="#" method="post" novalidate>
+
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="you@example.com"
+            autocomplete="email"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            placeholder="••••••••"
+            autocomplete="current-password"
+            required
+          />
+        </div>
+
+        <div class="form-options">
+          <a href="#">Forgot password?</a>
+        </div>
+
+        <button type="submit" class="btn-submit">Sign in</button>
+
+      </form>
+
+      <p class="login-card__footer">
+        Don&rsquo;t have an account? <a href="#">Sign up</a>
+      </p>
+
+    </div>
+
+  </body>
+</html>
